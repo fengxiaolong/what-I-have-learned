@@ -1,6 +1,6 @@
 ## 11.25-12.1
 
-* 写了服务监控脚本
+* 写了服务监控[脚本](https://github.com/fengxiaolong/monitor_script)
 * 《Linux Shell脚本攻略》一书，看到了第三章
 * 迁移了下自己的博客，重新换了VPS,重新换了主题，用了新的域名
 * 开始每天20-30分钟的英语听说训练
