@@ -45,3 +45,9 @@
 ## 2.24-3.2  
 * 继续每天晚上看Linux程序设计，现在看到了第五章
 * 学习GTK
+* 继续再看Linux程序设计，SHELL脚本  
+* 开始写xiaonei-gtk demo  
+
+## 3.3-3.9  
+* 看Linux程序设计
+* 写xiaonei-gtk demo
