@@ -50,4 +50,5 @@
 
 ## 3.3-3.9  
 * 看Linux程序设计
-* 写xiaonei-gtk demo
+* 完善xiaonei-gtk demo
+* 看Python，准备进行微信公众平台开发
