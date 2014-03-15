@@ -52,3 +52,9 @@
 * 看Linux程序设计
 * 完善xiaonei-gtk demo
 * 看Python，准备进行微信公众平台开发
+
+## 3.10-3.16  
+* 看Linux程序设计
+* 晚上xiaonei-gtk demo
+* 出差
+* 看Python
